@@ -2,7 +2,7 @@
 # <div align="center">Template em HTML para envio de e-mail de alerta zabbix</div>
 
 ---
-#### Template e-mail em HTML [***Zabbix***]
+#### Template e-mail em HTML utilizado no projeto do Sansão! [Github](https://github.com/sansaoipb )
 
 #### (Testado com Gmail e web e-mail dedicado utilizando navegador firefox e google chrome)
 #### (PROBLEMAS DE ESPAÇAMENTO DE TABELA COM OUTLOOK INSTALADO NA MAQUINA E WEB)
